@@ -1,6 +1,6 @@
 # The simple multiplayer matchmaker service
 
-This is implementation of simple matchmaker service
+This is implementation of simple matchmaker service.
 The matchmaker service queues players and creates groups based on waiting time, minimum latency and player skill difference.
 
 The algorithm for selecting players by groups works as follows:
