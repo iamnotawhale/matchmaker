@@ -1,0 +1,479 @@
+#POST http://localhost:8080/users
+#Content-Type: application/json
+#
+#{
+#  "name": 1,
+#  "skill": null,
+#  "latency": -1.0
+#}
+#
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 1",
+  "skill": 5.0,
+  "latency": 10.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 2",
+  "skill": 10.0,
+  "latency": 25.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 3",
+  "skill": 15.0,
+  "latency": 50.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 4",
+  "skill": 20.0,
+  "latency": 15.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 5",
+  "skill": 25.0,
+  "latency": 30.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 6",
+  "skill": 30.0,
+  "latency": 55.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 7",
+  "skill": 35.0,
+  "latency": 20.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 8",
+  "skill": 40.0,
+  "latency": 35.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 9",
+  "skill": 45.0,
+  "latency": 60.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 10",
+  "skill": 50.0,
+  "latency": 25.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 11",
+  "skill": 55.0,
+  "latency": 40.0
+}
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 12",
+  "skill": 60.0,
+  "latency": 65.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 13",
+  "skill": 65.0,
+  "latency": 30.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 14",
+  "skill": 70.0,
+  "latency": 45.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 15",
+  "skill": 75.0,
+  "latency": 70.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 16",
+  "skill": 80.0,
+  "latency": 35.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 17",
+  "skill": 85.0,
+  "latency": 50.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 18",
+  "skill": 90.0,
+  "latency": 75.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 19",
+  "skill": 95.0,
+  "latency": 40.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 20",
+  "skill": 100.0,
+  "latency": 55.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 21",
+  "skill": 7.0,
+  "latency": 80.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 22",
+  "skill": 12.0,
+  "latency": 45.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 23",
+  "skill": 17.0,
+  "latency": 60.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 24",
+  "skill": 22.0,
+  "latency": 85.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 25",
+  "skill": 27.0,
+  "latency": 50.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 26",
+  "skill": 32.0,
+  "latency": 65.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 27",
+  "skill": 37.0,
+  "latency": 90.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 28",
+  "skill": 42.0,
+  "latency": 18.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 29",
+  "skill": 47.0,
+  "latency": 38.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 30",
+  "skill": 52.0,
+  "latency": 58.0
+}
+
+###
+
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 31",
+  "skill": 57.0,
+  "latency": 23.0
+}
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 32",
+  "skill": 62.0,
+  "latency": 43.0
+}
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 33",
+  "skill": 67.0,
+  "latency": 63.0
+}
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 34",
+  "skill": 72.0,
+  "latency": 28.0
+}
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 35",
+  "skill": 77.0,
+  "latency": 48.0
+}
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 36",
+  "skill": 82.0,
+  "latency": 68.0
+}
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 37",
+  "skill": 87.0,
+  "latency": 33.0
+}
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 38",
+  "skill": 92.0,
+  "latency": 53.0
+}
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 39",
+  "skill": 97.0,
+  "latency": 73.0
+}
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 40",
+  "skill": 5.0,
+  "latency": 5.0
+}
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 41",
+  "skill": 51.0,
+  "latency": 51.0
+}
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 42",
+  "skill": 97.0,
+  "latency": 97.0
+}
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 43",
+  "skill": 31.0,
+  "latency": 124.0
+}
+
+###
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "player 44",
+  "skill": 78.0,
+  "latency": 107.0
+}
+
+###
